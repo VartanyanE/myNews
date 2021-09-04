@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "myNews",
+    "slug": "myNews",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.zanderinc.myNews"
+    }
+  },
+  "name": "myNews"
+}
